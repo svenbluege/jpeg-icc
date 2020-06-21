@@ -1,0 +1,13 @@
+{
+    "name": "svenbluege/jpeg-icc",
+    "description": "PHP JPEG ICC profile manipulator class",
+    "type": "library",
+    "license": "BSD License",
+    "authors": [
+        {
+            "name": "Sven Bluege",
+            "email": "svenbluege@gmail.com"
+        }
+    ],
+    "require": {}
+}

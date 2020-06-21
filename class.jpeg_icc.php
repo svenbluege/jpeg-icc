@@ -4,6 +4,12 @@
  *
  * @author Richard Toth aka risko (risko@risko.org)
  * @version 0.2
+ * License: BSD License
+ *
+ * http://sourceforge.net/projects/jpeg-icc/
+ * http://jpeg-icc.sourceforge.net/
+ * https://github.com/slavicv/jpeg-icc
+ 
  */
 class JPEG_ICC
 {
