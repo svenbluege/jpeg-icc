@@ -9,5 +9,8 @@
             "email": "svenbluege@gmail.com"
         }
     ],
-    "require": {}
+    "require": {}.
+    "autoload": {
+        "files": ["class.jpeg_icc.php"]
+    }
 }
